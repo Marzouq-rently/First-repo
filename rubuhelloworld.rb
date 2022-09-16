@@ -1,3 +1,3 @@
 print('Enter your name: ')
 name=gets()
-puts("My name is #{name}")
+puts("My name is #{name}").
