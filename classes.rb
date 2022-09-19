@@ -24,10 +24,10 @@ end
 
 p1=Person.new(1,"James",12)
 p2=Person.new(2,"David",24)
-# p1.intro
-# p2.intro
-# puts(Person.getPersoncount)
-# p1.evolve
+p1.intro
+p2.intro
+puts(Person.getPersoncount)
+p1.evolve
 
 
 class Box
